@@ -70,5 +70,8 @@ return require('packer').startup(function(use)
       },
   }
 
+  -- Latex stuff
+  use 'lervag/vimtex'
+
 end)
 
